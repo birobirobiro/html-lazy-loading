@@ -17,8 +17,29 @@ body {
   margin-top: 10px;
   align-items: center;
   justify-content: center;
+  width: 400px;
+  height: 400px;
 }
 
 img {
   border-radius: 10px;
+}
+
+img {
+  display: block;
+  margin: 1em 0;
+}
+.fail img {
+  display: none;
+}
+pre {
+  border: 2px solid red;
+}
+.fail pre {
+  border-color: red;
+  background: pink;
+}
+.pass pre {
+  border-color: darkgreen;
+  background: lightgreen;
 }
