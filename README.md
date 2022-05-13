@@ -1,5 +1,5 @@
 ## Lazy Loading no HTML
 
-<img src="https://i.ibb.co/0jPyTQM/preview.gif">
+<img src=".github/preview.gif">
 
 </video>
